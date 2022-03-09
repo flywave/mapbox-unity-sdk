@@ -31,7 +31,6 @@ MonoBehaviour:
   - {fileID: 114261525222947302}
   - {fileID: 114873904952696824}
   - {fileID: 114095059372530020}
-  - {fileID: 114545493278003882}
 --- !u!114 &114065962956837788
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -123,36 +122,6 @@ MonoBehaviour:
   Image: {fileID: 2800000, guid: 9f8dc63149c4c452fb12fa47be6bb6c9, type: 3}
   Text: {fileID: 0}
 --- !u!114 &114515002572569922
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e5d9ef4c9a5f1410ea3cf247b3917654, type: 3}
-  m_Name: RasterTile
-  m_EditorClassIdentifier: 
-  Name: RasterTile
-  ScenePath: Assets/Mapbox/Examples/5_Playground/Scenes/RasterTile.unity
-  Image: {fileID: 0}
-  Text: {fileID: 0}
---- !u!114 &114545493278003882
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e5d9ef4c9a5f1410ea3cf247b3917654, type: 3}
-  m_Name: WorldScaleAR
-  m_EditorClassIdentifier: 
-  Name: WorldScaleAR
-  ScenePath: Assets/MapboxAR/Examples/Scenes/WorldScaleAR.unity
-  Image: {fileID: 0}
-  Text: {fileID: 0}
---- !u!114 &114556980017213984
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
@@ -318,17 +287,3 @@ MonoBehaviour:
   Image: {fileID: 2800000, guid: 1b7a3200c45d3425bbf8e891123932d8, type: 3}
   Text: {fileID: 0}
 --- !u!114 &114873904952696824
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e5d9ef4c9a5f1410ea3cf247b3917654, type: 3}
-  m_Name: TabletopAR
-  m_EditorClassIdentifier: 
-  Name: TabletopAR
-  ScenePath: Assets/MapboxAR/Examples/Scenes/TabletopAR.unity
-  Image: {fileID: 0}
-  Text: {fileID: 0}
