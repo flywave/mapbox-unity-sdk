@@ -17,6 +17,9 @@ sdkproject/Assets/WSATestCertificate.pfx.meta
 /scriptcs_packages
 /packages
 
+/[Bb]uild/
+/[Bb]uilds/
+
 # Documentation
 docfx.zip
 /docfx
